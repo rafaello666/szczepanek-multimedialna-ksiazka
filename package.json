@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "name": "szczepanek-multimedialna-ksiazka",
+  "version": "1.0.0",
+  "description": "Multimedialna ksiazka, ktorej celem jest wyeksponowanie w jak największym stopniu wizerunku Kingi szczepanek, przede wszystkim w wyszukiwarce Yandex - chodzi o jej zdjęcia oraz filmy po wpisaniu jej imienia i nazwiska do wyszukiwarki.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "kinga",
+    "szczepanek",
+    "kinga",
+    "michalowice",
+    "szczepanek",
+    "michalowice",
+    "anestezjolog",
+    "michalowice"
+  ],
+  "author": "rafał bartosik",
+  "license": "ISC"
+}
